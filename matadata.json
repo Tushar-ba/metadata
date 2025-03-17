@@ -1,31 +1,10 @@
 {
-  "name": "Gold Token",
-  "symbol": "GLD",
-  "description": "Premium digital gold token representing the value and prestige of physical gold in a digital form.",
-  "image": "https://raw.githubusercontent.com/Tushar-ba/metadata/main/3430353.jpg",
-  "attributes": [
-    {
-      "trait_type": "Type",
-      "value": "Precious Metal"
-    },
-    {
-      "trait_type": "Rarity",
-      "value": "Rare"
-    }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/Tushar-ba/metadata/main/3430353.jpg",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "ExNaXZYbdzK7uANTBVV26xU2PiCRGyrh8S8UYd81nnwa",
-        "share": 100
-      }
-    ]
+  "name": "ETH",
+  "symbol": "ethereum",
+  "image": "https://www.pngall.com/wp-content/uploads/10/Ethereum-Logo-PNG-HD-Image.png",
+  "description": "Ethereum",
+  "creator": {
+    "name": "SoLauncher Tool",
+    "site": "https://solauncher.org"
   }
 }

@@ -1,4 +1,31 @@
 {
- "Name":"TUSHAR",
- "Symbol":"TUSH",
+  "name": "Gold Token",
+  "symbol": "GLD",
+  "description": "Premium digital gold token representing the value and prestige of physical gold in a digital form.",
+  "image": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/gold.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Precious Metal"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/gold.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "YOUR_WALLET_PUBLIC_KEY",
+        "share": 100
+      }
+    ]
+  }
 }

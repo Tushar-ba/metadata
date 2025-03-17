@@ -2,7 +2,7 @@
   "name": "Gold Token",
   "symbol": "GLD",
   "description": "Premium digital gold token representing the value and prestige of physical gold in a digital form.",
-  "image": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/gold.png",
+  "image": "https://raw.githubusercontent.com/Tushar-ba/metadata/main/3430353.jpg",
   "attributes": [
     {
       "trait_type": "Type",
@@ -16,7 +16,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/gold.png",
+        "uri": "https://raw.githubusercontent.com/Tushar-ba/metadata/main/3430353.jpg",
         "type": "image/png"
       }
     ],
